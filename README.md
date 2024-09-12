@@ -16,7 +16,9 @@ Unclear things:
 
 I'm feeling: receptive.
 
-![Turkey Cran sandwich](https://github.com/user-attachments/assets/f83e2ab1-ac3a-4b54-b3e3-790a082cb538)
+![Turkey Cran sandwich](https://github.com/user-attachments/assets/f83e2ab1-ac3a-4b54-b3e3-790a082cb538) Turkey Cranberry sandwich, the love of my life.
 
-Main takeaway from MDIA's first class: "it's not that you don't know how to use a computer, is just that you don't know how to think like one YET"
+Main takeaways from MDIA's first class:
+- "It's not that you don't know how to use a computer, it's just that you don't know how to think like one YET".
+- Coding is a language that takes time and practice to learn but learning it could open you countless oportunities and save you a lot of time when using a computer.
 
