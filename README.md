@@ -21,4 +21,5 @@ I'm feeling: receptive.
 Main takeaways from MDIA's first class:
 - "It's not that you don't know how to use a computer, it's just that you don't know how to think like one YET".
 - Coding is a language that takes time and practice to learn but learning it could open you countless oportunities and save you a lot of time when using a computer.
+git push
 
