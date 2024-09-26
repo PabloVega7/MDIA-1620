@@ -1,25 +1,24 @@
 # MDIA-1620
 Pablo Vega's MDIA- 1620 code. 
 
-"Aha" moments: 
-- The better understanding of the word "interface".
-- Learning to use the commands "cd" and "ls" after not getting it in the first and second try.
-- Realizing how specific you have to be when working with computers.
+3 things I learned during lesson #3: 
+- What JavaScript is and what it was created for (web browsers).
+- What JS is used for nowadays (non-web applications).
+- What primitives are: JS primitives = data.
 
 
 
-Unclear things:
-- How to navigate through Github.
-- What is Github mainly used for? Other than hosting codes online.
+2 confusing things:
+- "Git commit" was somewhat confusing to me because sometimes I had to "git add" to update what will be commited (file) and other times the file was already there. 
+- "Git push" was confusing to make it work due to the authentication issues we had. Although I'm aware this is usually not difficult at all. 
 
 
 
-I'm feeling: receptive.
+I'm feeling: optimistic (hopefully this course won't be as complicated for me as I thought). 
 
 ![Turkey Cran sandwich](https://github.com/user-attachments/assets/f83e2ab1-ac3a-4b54-b3e3-790a082cb538) Turkey Cranberry sandwich, the love of my life.
 
 Main takeaways from MDIA's first class:
 - "It's not that you don't know how to use a computer, it's just that you don't know how to think like one YET".
-- Coding is a language that takes time and practice to learn but learning it could open you countless oportunities and save you a lot of time when using a computer.
-git push
+
 
