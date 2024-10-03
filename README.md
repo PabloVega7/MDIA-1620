@@ -21,5 +21,3 @@ I'm feeling: optimistic (hopefully this course won't be as complicated for me as
 
 Main takeaway from MDIA's first class:
 - "It's not that you don't know how to use a computer, it's just that you don't know how to think like one YET".
-
-
