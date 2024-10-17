@@ -16,8 +16,13 @@ Pablo Vega's MDIA- 1620 code.
 
 I'm feeling: optimistic (hopefully this course won't be as complicated for me as I thought). 
 
-
 ![Turkey Cran sandwich](https://github.com/user-attachments/assets/f83e2ab1-ac3a-4b54-b3e3-790a082cb538) Turkey Cranberry sandwich, the love of my life.
 
 Main takeaway from MDIA's first class:
 - "It's not that you don't know how to use a computer, it's just that you don't know how to think like one YET".
+
+//Lesson 6
+3 confusing things:
+- Zero-based indexing: can be consusing at first when getting used to it and when trying to access elements and getting another result.
+- Accessing and index that is larger than an array: results in undefined.
+- Array methods: some methods modify arrays and others don't.
