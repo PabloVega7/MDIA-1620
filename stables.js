@@ -29,11 +29,30 @@ if(isHorseInside) {
     console.log(horseName + " is outside!");
 }
 
+//LESSON-6 
+let horseName2 = "Bourbon";
+let horseNickName2 = "Smokey";
+let horseAge2 = 4;
+let isHorseInside2 = true;
 
+let horseName3 = "Scotch";
+let horseNickName3 = "Mac";
+let horseAge3 = 6;
+let isHorseInside3 = true;
 
+console.log(`${horseName2} is the name of my second horse, his nickname is ${horseNickName2}, and ${horseName3} is the name of my third horse, his nickname is ${horseNickName3}.`);
 
+if (isHorseInside2) {
+    console.log(`${horseName2} is inside!`);
+} else {
+    console.log(`${horseName2} is outside!`);
+}
 
-
+if (isHorseInside3) {
+    console.log(`${horseName3} is inside!`);
+} else {
+    console.log(`${horseName3} is outside!`);
+}
 
 
 
