@@ -23,6 +23,7 @@ Main takeaway from MDIA's first class:
 - "It's not that you don't know how to use a computer, it's just that you don't know how to think like one YET".
 
 // Lesson 6
+
 3 confusing things:
 - Zero-based indexing: can be consusing at first when getting used to it and when trying to access elements and getting another result.
 - Accessing and index that is larger than an array: results in undefined.
